@@ -15,7 +15,7 @@ root.render(
         <ul className="cards">
         <Cards name='The Vampire Diaries'  link="https://flxt.tmsimg.com/assets/p8182631_b1t_v9_aa.jpg"  />
         <Cards name=' F R I E N D S '  link="https://flxt.tmsimg.com/assets/p183931_b_v8_ac.jpg"  />
-        {/* <Cards name='M A N I F E S T'  link="https://flxt.tmsimg.com/assets/p17602726_b_v13_ab.jpg"/>
+        <Cards name='M A N I F E S T'  link="https://flxt.tmsimg.com/assets/p17602726_b_v13_ab.jpg"/>
         <Cards name='1899' link="https://m.media-amazon.com/images/M/MV5BMTU1N2I5OTgtNDE2MS00ZTdmLWJlODktNDMwMGVmNzY5NmUxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg"/>
         <Cards name='D A R K' link="https://assets.gadgets360cdn.com/pricee/assets/product/202202/MV5BZmY2YzU4NDktODIxYi00YWIyLWIz_1644909573.jpg"/>
         <Cards name='Breaking Bad' link="https://www.themoviedb.org/t/p/w500/ggFHVNu6YYI5L9pCfOacjizRGt.jpg"/>
@@ -36,8 +36,8 @@ root.render(
         <Cards name=' Alice in Borderland'  link="https://m.media-amazon.com/images/M/MV5BZmUwMGI4M2QtYmRlYy00NDQ1LThjNDAtYTI4NDNiNDg5MDViXkEyXkFqcGdeQXVyMzgxODM4NjM@._V1_.jpg"  />
         <Cards name=' Outlander'  link="https://www.usmagazine.com/wp-content/uploads/2022/12/Outlander-Season-7-Sam-Heughan-Caitriona-Balfe.jpg?quality=86&strip=all"  />
         <Cards name=' Elite'  link="https://m.media-amazon.com/images/M/MV5BYmU5N2YzYjQtM2Q4Yi00NWY4LWI5NDQtMzE4OTlhY2Q5NmJlXkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_.jpg"  />
-        <Cards name=' Fauda'  link="https://flxt.tmsimg.com/assets/p13234940_b_v13_aa.jpg"  /> */}
-        {/* <Cards name=' B O D Y G U A R D'  link="https://m.media-amazon.com/images/M/MV5BYWU4NjZhODYtZDY5NS00ZjM1LTkzZTctZjQ3MGIyMTQ0YzRkXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg"  />
+        <Cards name=' Fauda'  link="https://flxt.tmsimg.com/assets/p13234940_b_v13_aa.jpg"  />
+        <Cards name=' B O D Y G U A R D'  link="https://m.media-amazon.com/images/M/MV5BYWU4NjZhODYtZDY5NS00ZjM1LTkzZTctZjQ3MGIyMTQ0YzRkXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg"  />
         <Cards name=' DYNASTY'  link="https://m.media-amazon.com/images/M/MV5BMjA1N2Y0MGItNWJlNy00Yzg3LWE3MmYtODRmYmM5NjZlNDc4XkEyXkFqcGdeQXVyMTMxNjUyMDkx._V1_.jpg"  />
         <Cards name=' Travelers'  link="https://m.media-amazon.com/images/M/MV5BMjUzOTQwOTg1MF5BMl5BanBnXkFtZTgwNzE4NzQ3NjM@._V1_.jpg"  />
         <Cards name=' Dark Desire'  link="https://m.media-amazon.com/images/M/MV5BODUxNmEzZmMtNGY0NS00MGY4LWEzZDQtMjQ2Y2I4ZDI3YThiXkEyXkFqcGdeQXVyMTA3MzQ4MTc0._V1_.jpg"  />
@@ -56,7 +56,7 @@ root.render(
         <Cards name='Wednesday'  link="https://m.media-amazon.com/images/M/MV5BM2ZmMjEyZmYtOGM4YS00YTNhLWE3ZDMtNzQxM2RhNjBlODIyXkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_.jpg"  />
         <Cards name='Squid Game'  link="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/11-squidgame-unit-02a-1632946316.jpg"  />
         <Cards name='Never Have I Ever'  link="https://m.media-amazon.com/images/M/MV5BZTY5ZmMwMDQtMmYxYy00ZTYyLWE5MDItZGUwM2I5NTAwOGUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg"/>
-        <Cards name='Money Heist'  link="https://m.media-amazon.com/images/M/MV5BMGUyOTFkMzUtOTQ5ZC00YjMzLWIyMGMtOWU2M2VkMDMxZTRjXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_.jpg"  /> */}
+        <Cards name='Money Heist'  link="https://m.media-amazon.com/images/M/MV5BMGUyOTFkMzUtOTQ5ZC00YjMzLWIyMGMtOWU2M2VkMDMxZTRjXkEyXkFqcGdeQXVyNjU1NzU3MzE@._V1_.jpg"  />
         </ul>   
         </>
         );
