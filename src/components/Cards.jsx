@@ -6,7 +6,7 @@ export default function Cards(props) {
 
 
   <li>
-    <a href="" className="card">
+    <a href="/" className="card">
       <img src={props.link? props.link:   "https://i.imgur.com/oYiTqum.jpg"} className="card__image" alt="" />
       <div className="card__overlay">
         <div className="card__header">
